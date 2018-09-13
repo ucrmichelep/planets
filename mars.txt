@@ -11,3 +11,5 @@ So it might be better to make the change in Git.  On the from page of the OSF th
 
 So I tried that and it seems that the GitHub itself has a generic message "Updated $.$"
 It had a submessage that I thought was the commit message.  The Was the extended commit message.
+
+Another useful thing to know is that if you click on the view in github button, it does not open a new tab.  One has to hit the back button to get back to ones OSF project.
