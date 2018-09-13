@@ -8,3 +8,6 @@ I wonder if this will work in OSF
 It did, but had a generic commit message
 
 So it might be better to make the change in Git.  On the from page of the OSF there is a View/Edit in Git option. 
+
+So I tried that and it seems that the GitHub itself has a generic message "Updated $.$"
+It had a submessage that I thought was the commit message.  The Was the extended commit message.
