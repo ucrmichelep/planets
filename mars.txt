@@ -4,3 +4,5 @@ I think we can get there if we fly really fast
 An ill-considered change
 
 I wonder if this will work in OSF
+
+It did, but had a generic commit message
