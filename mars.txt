@@ -6,3 +6,5 @@ An ill-considered change
 I wonder if this will work in OSF
 
 It did, but had a generic commit message
+
+So it might be better to make the change in Git.  On the from page of the OSF there is a View/Edit in Git option. 
